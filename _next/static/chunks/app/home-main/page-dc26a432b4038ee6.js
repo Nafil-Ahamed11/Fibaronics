@@ -37,135 +37,7 @@
       i(4090);
       var l = i(3955);
       s.default = function () {
-        return (0, a.jsx)("section", {
-          className: "clients-carso section-padding pt-0",
-          children: (0, a.jsxs)("div", {
-            className: "container",
-            children: [
-              (0, a.jsx)("div", {
-                className: "row justify-content-center",
-                children: (0, a.jsx)("div", {
-                  className: "col-lg-6 col-md-10",
-                  children: (0, a.jsx)("div", {
-                    className: "sec-head text-center mb-80",
-                    children: (0, a.jsxs)("h3", {
-                      children: [
-                        "We‘re proud to work with ",
-                        (0, a.jsx)("br", {}),
-                        " a",
-                        " ",
-                        (0, a.jsx)("span", {
-                          className: "opacity-7",
-                          children: "diverse range of companies.",
-                        }),
-                      ],
-                    }),
-                  }),
-                }),
-              }),
-              (0, a.jsx)("div", {
-                className: "swiper5",
-                "data-carousel": "swiper",
-                "data-items": "5",
-                "data-loop": "true",
-                "data-space": "40",
-                children: (0, a.jsxs)(l.tq, {
-                  slidesPerView: 5,
-                  loop: !0,
-                  spaceBetween: 40,
-                  breakpoints: {
-                    0: { slidesPerView: 2 },
-                    640: { slidesPerView: 3 },
-                    768: { slidesPerView: 3 },
-                    1024: { slidesPerView: 5 },
-                  },
-                  id: "content-carousel-container-unq-clients",
-                  className: "swiper-container",
-                  "data-swiper": "container",
-                  children: [
-                    (0, a.jsx)(l.o5, {
-                      children: (0, a.jsx)("div", {
-                        className: "item",
-                        children: (0, a.jsx)("div", {
-                          className: "img icon-img-100",
-                          children: (0, a.jsx)("img", {
-                            src: "/assets/imgs/brands/c1.svg",
-                            alt: "",
-                          }),
-                        }),
-                      }),
-                    }),
-                    (0, a.jsx)(l.o5, {
-                      children: (0, a.jsx)("div", {
-                        className: "item",
-                        children: (0, a.jsx)("div", {
-                          className: "img icon-img-100",
-                          children: (0, a.jsx)("img", {
-                            src: "/assets/imgs/brands/c2.svg",
-                            alt: "",
-                          }),
-                        }),
-                      }),
-                    }),
-                    (0, a.jsx)(l.o5, {
-                      children: (0, a.jsx)("div", {
-                        className: "item",
-                        children: (0, a.jsx)("div", {
-                          className: "img icon-img-100",
-                          children: (0, a.jsx)("img", {
-                            src: "/assets/imgs/brands/c3.svg",
-                            alt: "",
-                          }),
-                        }),
-                      }),
-                    }),
-                    (0, a.jsx)(l.o5, {
-                      children: (0, a.jsx)("div", {
-                        className: "item",
-                        children: (0, a.jsx)("div", {
-                          className: "img icon-img-100",
-                          children: (0, a.jsx)("img", {
-                            src: "/assets/imgs/brands/c4.svg",
-                            alt: "",
-                          }),
-                        }),
-                      }),
-                    }),
-                    (0, a.jsx)(l.o5, {
-                      children: (0, a.jsx)("div", {
-                        className: "item",
-                        children: (0, a.jsx)("div", {
-                          className: "img icon-img-100",
-                          children: (0, a.jsx)("img", {
-                            src: "/assets/imgs/brands/c5.svg",
-                            alt: "",
-                          }),
-                        }),
-                      }),
-                    }),
-                  ],
-                }),
-              }),
-              (0, a.jsx)("div", {
-                className: "sec-bottom mt-100",
-                children: (0, a.jsx)("div", {
-                  className: "main-bg d-flex align-items-center",
-                  children: (0, a.jsxs)("h6", {
-                    className: "fz-14 fw-400",
-                    children: [
-                      "More than ",
-                      (0, a.jsx)("span", {
-                        className: "fw-600",
-                        children: " 200+ companies ",
-                      }),
-                      " trusted us worldwide",
-                    ],
-                  }),
-                }),
-              }),
-            ],
-          }),
-        });
+        return (0, a.jsx)("section", {});
       };
     },
     1858: function (e, s, i) {
@@ -193,22 +65,23 @@
                         className: "cont md-mb50",
                         children: [
                           (0, a.jsx)("h6", {
-                            className: "sub-title main-color mb-15",
+                            className: "sub-title main-color mb-15 align-center extra-bold",
                             children: "Trusted Services",
                           }),
                           (0, a.jsx)("h3", {
-                            className: "mb-30",
+                            className: "mb-30 align-center extra-bold",
                             children:
                               "Fibronik IT Solutions provides tailored IT services to meet diverse business needs, including: Custom Software Development.",
                           }),
                           (0, a.jsx)("p", {
+                            className: "align-center extra-bold",
                             children:
                               "Driven professional dedicated to making a lasting impact through innovative solutions and unwavering excellence.",
                           }),
                           (0, a.jsxs)("a", {
-                            href: "/about-us",
+                            href: "/about",
                             className:
-                              "butn-crev d-flex align-items-center mt-40",
+                              "butn-crev d-flex align-items-center mt-40 align-center extra-bold",
                             children: [
                               (0, a.jsx)("span", {
                                 className: "hover-this",
@@ -239,7 +112,7 @@
                               (0, a.jsx)("div", {
                                 className: "col-md-4 bg-img",
                                 "data-background":
-                                  "/assets/imgs/serv-img/1.jpg",
+                                  "/assets/imgs/serv-img/1.png",
                               }),
                               (0, a.jsx)("div", {
                                 className: "col-md-8",
@@ -268,7 +141,7 @@
                               (0, a.jsx)("div", {
                                 className: "col-md-4 bg-img",
                                 "data-background":
-                                  "/assets/imgs/serv-img/2.jpg",
+                                  "/assets/imgs/serv-img/2.png",
                               }),
                               (0, a.jsx)("div", {
                                 className: "col-md-8",
@@ -281,7 +154,7 @@
                                     }),
                                     (0, a.jsx)("p", {
                                       children:
-                                        "Complete end-to-end IT support and management, including network security, server management, and help desk services .",
+                                        "Complete end-to-end IT support and management, including network security and help desk services .",
                                     }),
                                   ],
                                 }),
@@ -297,7 +170,7 @@
                               (0, a.jsx)("div", {
                                 className: "col-md-4 bg-img",
                                 "data-background":
-                                  "/assets/imgs/serv-img/3.jpg",
+                                  "/assets/imgs/serv-img/3.png",
                               }),
                               (0, a.jsx)("div", {
                                 className: "col-md-8",
@@ -375,7 +248,10 @@
                       className: "caption",
                       children: [
                         (0, a.jsx)("h1", {
-                          children: "Innovative IT Solutions",
+                          className: "extra-large",
+                          children: 
+                            "Innovative IT Solutions"
+                          ,
                         }),
                         (0, a.jsxs)("div", {
                           className: "d-flex align-items-end",
@@ -412,7 +288,7 @@
                   className: "row mt-80",
                   children: [
                     (0, a.jsx)("div", {
-                      className: "col-lg-6 order-md-2",
+                      className: "col-lg-6 order-md-2 flex center",
                       children: (0, a.jsx)("div", {
                         className: "icon-img",
                         children: (0, a.jsx)("img", {
@@ -425,7 +301,7 @@
                       className:
                         "col-lg-6 d-flex justify-content-end order-md-1",
                       children: (0, a.jsxs)("div", {
-                        className: "info",
+                        className: "info align-center",
                         children: [
                           (0, a.jsx)("h2", {
                             className: "mb-10",
@@ -493,13 +369,13 @@
                       (0, a.jsxs)("div", {
                         children: [
                           (0, a.jsx)("span", {
-                            className: "sub-title main-color mb-5",
+                            className: "sub-title main-color mb-5 align-center extra-bold",
                             children: "Our Portfolio",
                           }),
                           (0, a.jsx)("h3", {
                             className: "fw-600 fz-50 text-u d-rotate wow",
                             children: (0, a.jsxs)("span", {
-                              className: "rotate-text",
+                              className: "rotate-text align-center extra-bold",
                               children: [
                                 "Selected ",
                                 (0, a.jsx)("span", {
@@ -511,21 +387,21 @@
                           }),
                         ],
                       }),
-                      (0, a.jsxs)("div", {
-                        className: "ml-auto vi-more",
-                        children: [
-                          (0, a.jsx)("a", {
-                            href: "/portfolio-gallery",
-                            className: "butn butn-sm butn-bord radius-30",
-                            children: (0, a.jsx)("span", {
-                              children: "View All",
-                            }),
-                          }),
-                          (0, a.jsx)("span", {
-                            className: "icon ti-arrow-top-right",
-                          }),
-                        ],
-                      }),
+                      // (0, a.jsxs)("div", {
+                      //   className: "ml-auto vi-more",
+                      //   children: [
+                      //     (0, a.jsx)("a", {
+                      //       href: "/portfolio-gallery",
+                      //       className: "butn butn-sm butn-bord radius-30",
+                      //       children: (0, a.jsx)("span", {
+                      //         children: "",
+                      //       }),
+                      //     }),
+                      //     (0, a.jsx)("span", {
+                      //       className: "icon ti-arrow-top-right",
+                      //     }),
+                      //   ],
+                      // }),
                     ],
                   }),
                 }),
@@ -716,15 +592,16 @@
                   className: "d-flex align-items-center",
                   children: [
                     (0, a.jsxs)("div", {
+                      id: "specialize-section",
                       children: [
                         (0, a.jsx)("span", {
-                          className: "sub-title main-color mb-5",
+                          className: "sub-title main-color mb-5 align-center extra-bold",
                           children: "Our Specialize",
                         }),
                         (0, a.jsx)("h3", {
                           className: "fw-600 fz-50 text-u d-rotate wow",
                           children: (0, a.jsxs)("span", {
-                            className: "rotate-text",
+                            className: "rotate-text align-center extra-bold",
                             children: [
                               "Featured ",
                               (0, a.jsx)("span", {
@@ -1004,7 +881,7 @@
     168: function (e) {
       "use strict";
       e.exports = JSON.parse(
-        '[{"title":"Managed IT Services","img":"/assets/imgs/serv-icons/3.png","desc":"Complete end-to-end IT support and management, including network security, server management, and help desk services.","link":"/services"},{"title":"Cloud Solutions","img":"/assets/imgs/serv-icons/4.png","desc":"Cloud computing services that help businesses scale efficiently, improve data security, and reduce infrastructure costs.","link":"/services"},{"title":"Cybersecurity","img":"/assets/imgs/serv-icons/5.png","desc":"Robust security solutions designed to protect your data and systems from cyber threats.","link":"/services"},{"title":"Custom Software Development","img":"/assets/imgs/serv-icons/5.png","desc":"Tailor-made software solutions to automate business processes and improve operational efficiency.","link":"/services"},{"title":"Web Development & Design","img":"/assets/imgs/serv-icons/4.png","desc":"Creating modern, user-friendly websites that enhance your online presence and drive engagement.","link":"/services"},{"title":"IT Consulting","img":"/assets/imgs/serv-icons/5.png","desc":"Expert advice on technology strategy, system integration, and digital transformation to ensure your business stays ahead of the curve.","link":"/services"},{"title":"Data Analytics","img":"/assets/imgs/serv-icons/3.png","desc":"Empowering businesses with actionable insights through advanced data analytics tools and techniques.","link":"/services"}]'
+        '[{"title":"Managed IT Services","img":"/assets/imgs/serv-icons/3.png","desc":"Complete end-to-end IT support and management, including network security.","link":"/services"},{"title":"Cloud Solutions","img":"/assets/imgs/serv-icons/4.png","desc":"Cloud computing services that help to improve data security, and reduce infrastructure costs.","link":"/services"},{"title":"Cybersecurity","img":"/assets/imgs/serv-icons/5.png","desc":"Robust security solutions designed to protect your data and systems from cyber threats.","link":"/services"},{"title":"Software Development","img":"/assets/imgs/serv-icons/5.png","desc":"Tailor-made software solutions to automate business","link":"/services"},{"title":"Web Development","img":"/assets/imgs/serv-icons/4.png","desc":"Creating user-friendly websites that enhance online presence.","link":"/services"},{"title":"IT Consulting","img":"/assets/imgs/serv-icons/5.png","desc":"Expert advice on technology strategy, system integration, and digital transformation.","link":"/services"},{"title":"Data Analytics","img":"/assets/imgs/serv-icons/3.png","desc":"Empowering businesses with actionable insights through advanced data analytics tools","link":"/services"}]'
       );
     },
   },

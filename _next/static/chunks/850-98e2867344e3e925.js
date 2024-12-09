@@ -87,80 +87,59 @@
                           }),
                         }),
                       }),
-                    ],
-                  }),
-                }),
-                (0, r.jsx)("div", {
-                  className: "collapse navbar-collapse justify-content-center",
-                  id: "navbarSupportedContent",
-                  children: (0, r.jsxs)("ul", {
-                    className: "navbar-nav",
-                    children: [
+                      
                       (0, r.jsx)("li", {
                         className: "nav-item",
                         children: (0, r.jsx)("a", {
                           className: "nav-link",
-                          href: "/#services",
+                          href: "/#specialize-section",
                           children: (0, r.jsx)("span", {
                             className: "rolling-text",
                             children: "Services",
                           }),
                         }),
                       }),
-                    ],
-                  }),
-                }),
-                (0, r.jsx)("div", {
-                  className: "collapse navbar-collapse justify-content-center",
-                  id: "navbarSupportedContent",
-                  children: (0, r.jsxs)("ul", {
-                    className: "navbar-nav",
-                    children: [
+
                       (0, r.jsx)("li", {
                         className: "nav-item",
                         children: (0, r.jsx)("a", {
                           className: "nav-link",
-                          href: "/about-us",
+                          href: "/about",
                           children: (0, r.jsx)("span", {
                             className: "rolling-text",
                             children: "About Us",
                           }),
                         }),
                       }),
-                    ],
-                  }),
-                }),
-                (0, r.jsx)("div", {
-                  className: "collapse navbar-collapse justify-content-center",
-                  id: "navbarSupportedContent",
-                  children: (0, r.jsxs)("ul", {
-                    className: "navbar-nav",
-                    children: [
+
                       (0, r.jsx)("li", {
                         className: "nav-item",
                         children: (0, r.jsx)("a", {
                           className: "nav-link",
-                          href: "/contact-us",
+                          href: "/contact",
                           children: (0, r.jsx)("span", {
                             className: "rolling-text",
                             children: "Contact Us",
                           }),
                         }),
                       }),
+
+                      (0, r.jsx)("div", {
+                        className: "contact-button",
+                        children: (0, r.jsx)("a", {
+                          href: "/contact",
+                          className: "butn butn-sm butn-bg main-colorbg radius-5",
+                          children: (0, r.jsx)("span", {
+                            className: "text",
+                            children: "Chat With Us",
+                          }),
+                        }),
+                      }),
+                      
                     ],
                   }),
                 }),
-                (0, r.jsx)("div", {
-                  className: "contact-button",
-                  children: (0, r.jsx)("a", {
-                    href: "/contact-us",
-                    className: "butn butn-sm butn-bg main-colorbg radius-5",
-                    children: (0, r.jsx)("span", {
-                      className: "text",
-                      children: "Let's contact",
-                    }),
-                  }),
-                }),
+                
               ],
             }),
           })
