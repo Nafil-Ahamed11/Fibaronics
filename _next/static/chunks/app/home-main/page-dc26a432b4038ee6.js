@@ -243,7 +243,7 @@
                 (0, a.jsx)("div", {
                   className: "row",
                   children: (0, a.jsx)("div", {
-                    className: "col-lg-11",
+                    className: "col-lg-11 align-center",
                     children: (0, a.jsxs)("div", {
                       className: "caption",
                       children: [
@@ -254,11 +254,11 @@
                           ,
                         }),
                         (0, a.jsxs)("div", {
-                          className: "d-flex align-items-end",
+                          className: "",
                           children: [
                             (0, a.jsx)("div", {
                               children: (0, a.jsxs)("h1", {
-                                className: "nowrap",
+                                className: "nowrap align-center",
                                 children: [
                                   (0, a.jsx)("span", {
                                     className: "main-color",
@@ -881,7 +881,7 @@
     168: function (e) {
       "use strict";
       e.exports = JSON.parse(
-        '[{"title":"Managed IT Services","img":"/assets/imgs/serv-icons/3.png","desc":"Complete end-to-end IT support and management, including network security.","link":"/services"},{"title":"Cloud Solutions","img":"/assets/imgs/serv-icons/4.png","desc":"Cloud computing services that help to improve data security, and reduce infrastructure costs.","link":"/services"},{"title":"Cybersecurity","img":"/assets/imgs/serv-icons/5.png","desc":"Robust security solutions designed to protect your data and systems from cyber threats.","link":"/services"},{"title":"Software Development","img":"/assets/imgs/serv-icons/5.png","desc":"Tailor-made software solutions to automate business","link":"/services"},{"title":"Web Development","img":"/assets/imgs/serv-icons/4.png","desc":"Creating user-friendly websites that enhance online presence.","link":"/services"},{"title":"IT Consulting","img":"/assets/imgs/serv-icons/5.png","desc":"Expert advice on technology strategy, system integration, and digital transformation.","link":"/services"},{"title":"Data Analytics","img":"/assets/imgs/serv-icons/3.png","desc":"Empowering businesses with actionable insights through advanced data analytics tools","link":"/services"}]'
+        '[{"title":"Managed IT Services","img":"/assets/imgs/serv-icons/3.png","desc":"Complete end-to-end IT support and management, including network security and analytics.","link":"/#services"},{"title":"Cloud Solutions","img":"/assets/imgs/serv-icons/4.png","desc":"Cloud computing services that help to improve data security, and reduce infrastructure costs.","link":"/#services"},{"title":"Cybersecurity","img":"/assets/imgs/serv-icons/5.png","desc":"Robust security solutions designed to protect your data and systems from cyber threats.","link":"/#services"},{"title":"Software Development","img":"/assets/imgs/serv-icons/5.png","desc":"Tailor-made software solutions to automate business and user interaction and  experience","link":"/#services"},{"title":"Web Development","img":"/assets/imgs/serv-icons/4.png","desc":"Creating user-friendly websites that enhance online presence and availability to the users.","link":"/#services"},{"title":"IT Consulting","img":"/assets/imgs/serv-icons/5.png","desc":"Expert advice on technology strategy, system integration, and digital transformation.","link":"/#services"},{"title":"Data Analytics","img":"/assets/imgs/serv-icons/3.png","desc":"Empowering businesses with actionable insights through advanced data analytics tools","link":"/#services"}]'
       );
     },
   },
